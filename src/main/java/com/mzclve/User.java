@@ -4,5 +4,5 @@ public class User {
 
     private String username; //bbbbbbb
 
-    private String password;
+    private String passwords;
 }
